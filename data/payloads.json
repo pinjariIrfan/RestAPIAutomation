@@ -1,0 +1,9 @@
+{
+  "create_post": [
+    {"title": "Test Post 1", "body": "Body content 1", "userId": 1},
+    {"title": "Test Post 2", "body": "Body content 2", "userId": 2}
+  ],
+  "update_post": [
+    {"id": 1, "title": "Updated Title 1", "body": "Updated body 1", "userId": 1}
+  ]
+}
